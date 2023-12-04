@@ -1,4 +1,5 @@
 <script>
+	import './styles.css';
     import action from '$lib/action.png';
     import { Email, HackerNews, Reddit, LinkedIn, Pinterest, Telegram, Tumblr, Vk, WhatsApp, Xing, Facebook, X, Line } from "svelte-share-buttons-component/src";
 
